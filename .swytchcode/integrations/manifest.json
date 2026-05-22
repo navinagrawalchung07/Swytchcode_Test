@@ -1,0 +1,9 @@
+{
+  "github.github": {
+    "version": "1.1.4",
+    "sandbox_endpoint": "https://api.github.com",
+    "production_endpoint": "https://api.github.com",
+    "methods": 3304,
+    "workflows": 0
+  }
+}
